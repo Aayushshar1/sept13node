@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Rosella",
+    "last_name": "Driffield",
+    "email": "rdriffield0@theglobeandmail.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Evan",
+    "last_name": "Garment",
+    "email": "egarment1@etsy.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Barnie",
+    "last_name": "Carrier",
+    "email": "bcarrier2@infoseek.co.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Seward",
+    "last_name": "MacNeilley",
+    "email": "smacneilley3@ycombinator.com",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Clotilda",
+    "last_name": "Assante",
+    "email": "cassante4@ocn.ne.jp",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Gregoire",
+    "last_name": "Stinchcombe",
+    "email": "gstinchcombe5@com.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Gwyn",
+    "last_name": "Meale",
+    "email": "gmeale6@irs.gov",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Ethelbert",
+    "last_name": "Sawter",
+    "email": "esawter7@imgur.com",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Filip",
+    "last_name": "Igoe",
+    "email": "figoe8@weebly.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Edna",
+    "last_name": "Caddens",
+    "email": "ecaddens9@ovh.net",
+    "gender": "Female"
+  }
+]
